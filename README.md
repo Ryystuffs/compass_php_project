@@ -1,9 +1,14 @@
-You need a configured gmail for the use of SMTP
+# My Awesome Project
+A mini project for the end of our 2nd sem in 2nd year, a website where you can create memories from your recent travels around the globe
 
-# compass_php_project.
-Our professor taught us the basics of php until forms,
-then he task us to do a website based on the pictures he showed us
-but there are rules: dont change the theme, color, pictures, and logos. 
-That's whhy the pictures here are outdated, no proper aspect ratio, and just trash.
-I did 90% of this but since this is by pair  i let my classmate help me a bit he did 3 files all starts with detail and he also did the search function but the designs are inline css, i don't know why.
-Our prof is not that strict with the grading of this and he said we dont need to do the travelLog database since the main point is forms. We got 99 and it is jut a one week project.
+## How It's Made:
+
+**Tech used:** HTML, CSS, Php, MySql
+
+This is my first upload in github using git and php, I didn't used any libraries. This is my first time using composer and smtp services. 
+
+## Lessons Learned:
+
+I learned how to used web server through xampp apache, I also learned about sessions and how important it is for every web application that exist. I also learned a little about how hackers move through the web, they exploit every little vulnerabilities there is on a web application that is why I dedicated most of time here in pdo of mySql
+
+
